@@ -14,3 +14,12 @@ Before trying to modify this project on your own, you should install opencv libr
 ### This is a little preview of what is it
 ![Screenshot from 2021-09-01 13-25-49](https://user-images.githubusercontent.com/88968854/131656832-b8f58954-acb4-4b9f-8690-f4b7033f582e.png)
 )
+
+
+
+
+https://user-images.githubusercontent.com/88968854/131697523-6aac4680-d67c-4af3-9867-a57cb1f54f4a.mp4
+
+
+
+
