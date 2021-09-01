@@ -12,4 +12,5 @@ Before trying to modify this project on your own, you should install opencv libr
 **Unfortunately** for me the command didn't worked for me (Im running fedora 34), so I installed it using dnf **sudo dnf install python-opencv**.
 ### Finally you are good to go
 ### This is a little preview of what is it
-![This is an image](file:///home/jihadmz/Pictures/Screenshot%20from%202021-09-01%2013-25-49.png)
+![Screenshot from 2021-09-01 13-25-49](https://user-images.githubusercontent.com/88968854/131656832-b8f58954-acb4-4b9f-8690-f4b7033f582e.png)
+)
